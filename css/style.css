@@ -1,1 +1,99 @@
+h1 {
+  /*--color : #66BFBF;*/
+  color :  #34568B;
+  font-family: 'Muli',sans-serif;
+  font-style: normal;
+
+}
+h3{
+  color : white;
+  font-family: Palatino,Palatino Linotype,Palatino LT STD;
+  font-style: normal;
+  background-color: #34568B;
+  width:100%;
+  padding-left: 2px;
+  border-radius: 0px 20px 0px 20px
+}
+
+h3:hover{
+  background-color: #F7CAC9;
+  width : 110%;
+  font-size: 25px;
+  color: #D65076;
+}
+
+
+img#mainimg{
+
+  height: 200px;
+  width : 200px;
+  border-radius: 100px;
+  border-style: dashed;
+  border-width: 0px 5px 0px 5px ;
+  border-color: #00758F;
+
+}
+body{
+  color: black;
+  background-color: #9BB7D4;
+  font-size: 20px;
+  font-style: oblique;
+}
+
+
+
+hr{
+  width: 30%;
+  border-style: dotted;
+  border-width: 6px 0px 0px 0px ;
+  border-color: white;
+
+}
+
+.icon{
+  height: 30px;
+  width : 30px;
+  border-radius: 10px;
+  filter: grayscale(100%);
+}
+
+.icon:hover{
+  height: 35px;
+  width : 35px;
+  border-radius: 10px;
+  filter: none;
+
+}
+
+.table1{
+  border-spacing: 15px;
+}
+
+.obj{
+  width : 50%;
+}
+
+.ll{
+  font-style: normal;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+}
+
+.l{
+  font-size: 20px;
+   font-family: 'PT Sans Narrow', sans-serif;
+  font-style:normal;
+}
+
+.header{
+  height : 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+.footer{
+  height : 20px;
+  background-color: white;
+  border-radius: 10px;
+
+}
 
